@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
-
 # 💫 About Me:
 
 I know I don't know anything.<br>
@@ -43,4 +41,4 @@ But then I learned about Golang and now: `err != nil`
 [![](https://visitcount.itsvg.in/api?id=EvansTrein&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
+
